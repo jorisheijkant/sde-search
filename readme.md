@@ -1,4 +1,4 @@
-# SDE seacrh
+# SDE search
 Search the enormous Dutch SDE subsidies xml file in a more convenient way. You can search for a company, after which the code will output a csv file regarding all the subsidies for this company.
 
 ## Prerequisites and usage
